@@ -68,7 +68,7 @@ class BJCGW(object):
         # print(company)
         # print(usre)
         # print(maney)
-        return 1
+        return 123
 
     def save_data(self):
         pass
